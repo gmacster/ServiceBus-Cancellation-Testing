@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ServiceBusTesting": {
+      "commandName": "Project",
+      "commandLineArgs": "-s [your-connection-string] -n 10696049115006452 1069604911500645 106960491150064"
+    }
+  }
+}
